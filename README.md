@@ -3,10 +3,14 @@
 ## Table of Contents
 
 - [About](#about)
+- [Installation](#installation)
 - [Project Overview](#project-overview)
 
 ## About
 The **Feed Reader Testing with Jasmine Project** is part four of of the Udacity Nanodegree Program **Front-End Web Developer**.
+
+## Installation / How to run the application
+To start this application just download or clone the project and start index.html in your favourite browser. Jasmine will execute automatically the tests for the application.
 
 ## Project-Overview
 
